@@ -10,7 +10,7 @@ urlFragment: azure-opensource-labs
 
 # Azure Open Source Labs
 
-A collection of labs demonstrating how to build Open Source applications with Azure, Visual Studio Code and the Windows Subsytem for Linux (WSL).
+A collection of labs demonstrating how to build Open Source applications with Azure, Visual Studio Code and the Windows Subsytem for Linux (WSL).  These <10 minute hands on labs were created for OSCON 2019.
 
 ## Containerize a Django application using Visual Studio Code
 
