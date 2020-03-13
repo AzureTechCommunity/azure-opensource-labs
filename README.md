@@ -38,11 +38,6 @@ Build a new dev container using Visual Studio Code remote from scratch and creat
 
 [Go to lab](2a-vscode-flask-dev-container/README.md)
 
-## Developing a Django+PostgreSQL application in a Dev Container
-
-Open an existing dev container using Visual Studio Code remote extensions, build a React front-end, initialize a PostgreSQL database, and run a Django app. 
-
-[Go to lab](2b-vscode-django-postgres-dev-container/README.md)
 
 ## Use Azure Functions to build a RESTful API
 
@@ -58,14 +53,3 @@ In this lab you will learn to:
 3. Deploy the container image to Azure Container Instances (ACI).
 
 [Go to lab](3-azure-cli-flask-registry-container-instances/README.md) | Duration: 5-10 minutes
-
-## Use Hyperscale (Citus) to speed up analytics
-
-This workshop is meant to be an introduction to Azure Database for PostgreSQL Hyperscale (Citus). First, you will create a cluster to scale out PostgreSQL and turn it into a distributed database. Then, you will create a schema and tables, load test data, and create a rollup function to massively speed up your query workload. 
-
-[Go to lab](4-postgres-citus/README.md)
-
-## Try out the Intelligent Performance suite in Azure database services for MySQL and PostgreSQL
-Azure offers managed database services for MySQL and PostgreSQL. In this hands-on lab, explore how to understand and improve your query performance using the Intelligent Performance suite of features.
-
-[Go to MySQL lab](5a-mysql-intelligent-perf/README.md) | [Go to PostgreSQL lab](5b-postgres-intelligent-perf/README.md)
